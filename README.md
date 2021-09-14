@@ -1,2 +1,2 @@
 # testt
-testt rep
+testt repositry command demostration
